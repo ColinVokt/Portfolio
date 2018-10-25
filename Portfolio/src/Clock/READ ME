@@ -1,0 +1,6 @@
+This program is a clock for our time zone.
+First it takes the time in milliseconds then bringing down the number
+to seconds then minutes then hours.
+Then because the time you get is from a different time zone I subtract 6 hrs
+from the clock giving you then time when you started the program
+So its not the current time because it will always be a couple seconds off.

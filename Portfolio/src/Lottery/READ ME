@@ -1,0 +1,9 @@
+This is my lottery program. It will give you a prize if you guess either the number,
+both of the digits but not in the right spot, or one of the digits.
+First I get a random number 1-100 and then I ask the user for their guess.
+Next I get both of the numbers by themselves. Then I tell the user the lottery number.
+After that I go into a if statement to tell them if they got any of them right
+First one is if they match both of the numbers and the spot there in.
+If they don't get that it goes to if they got both the numbers but not in the right spot.
+Next is if they got 1 of the numbers right and after that if they didn't get anything 
+they don't win anything. So each of these if statements tell them what they won( or if they didn't win).

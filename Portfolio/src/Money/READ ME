@@ -1,0 +1,5 @@
+This program takes a amount of money that the user inputed.
+It will then divide it tell it gets it in quarters then dimes then nickels and then finally pennies.
+So first I make my variables. Then I ask the user for the amount of money.
+After that I divide it by 25 then by 10 then 5 then 1 for the amount of money.
+Then finally tell them the amount of each. 

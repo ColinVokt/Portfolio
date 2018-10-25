@@ -1,0 +1,4 @@
+This program uses a switch statement to tell you your Chinese Zodiac sign
+and a same fact about that zodiac. The first thing done is asking the user there year of birth.
+After that it take thats number and does (year % 12) then based on what number it gets (1,2,3,etc).
+It then finally tells you your zodiac and fun fact.

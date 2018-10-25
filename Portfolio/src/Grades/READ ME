@@ -1,0 +1,5 @@
+The program takes 10 percent grades and then will take the average to give a grade.
+So first I make my variables. After that I ask the user for their 10 grades.
+After that it does the math by adding all the grades and dividing by 10.
+After that it does a if/else/else statement to give you a letter grade based on the final percent
+you got.
