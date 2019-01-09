@@ -44,7 +44,7 @@ public class Grades {
 		// Makes equation
 		
 		sum = (int) (one + two + three + four + five + six + seven + eight + nine + ten);
-		avg = sum/10;
+		avg = sum/6;
 		
 		//Makes if/else statements
 		
